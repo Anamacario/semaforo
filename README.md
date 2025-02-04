@@ -42,7 +42,6 @@ cd semaforo
 
 ### **3️⃣ Testar no Wokwi integrado no Vs Code**
 - Abra o arquivo `diagram.json`  e clique em "Run Simulation".
-- Aperte o botão para inciar o sistema.
 
 ---
 
