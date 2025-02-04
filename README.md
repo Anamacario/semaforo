@@ -23,8 +23,8 @@ Este projeto implementa um **semáforo funcional** utilizando o **Raspberry Pi P
 | Componente | GPIO |
 |------------|------|
 | LED Vermelho | GPIO 13 |
-| LED Amarelo | GPIO 11 |
-| LED Verde | GPIO 12 |
+| LED Verde | GPIO 11 |
+| LED Azul | GPIO 12 |
 
 ---
 
